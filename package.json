@@ -12,6 +12,7 @@
   "dependencies": {
     "@opentelemetry/api": "^1.0.3",
     "@opentelemetry/node": "^0.24.0",
+    "@opentelemetry/sdk-trace-web": "^1.0.0",
     "@opentelemetry/tracing": "^0.24.0",
     "commander": "^8.2.0",
     "got": "^11.8.2"
