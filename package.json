@@ -1,0 +1,19 @@
+{
+  "name": "opentelemetry-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opentelemetry/api": "^1.0.3",
+    "@opentelemetry/node": "^0.24.0",
+    "@opentelemetry/tracing": "^0.24.0",
+    "commander": "^8.2.0",
+    "got": "^11.8.2"
+  }
+}
